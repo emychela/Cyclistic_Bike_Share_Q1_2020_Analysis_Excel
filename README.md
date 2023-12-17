@@ -76,6 +76,9 @@ Visulaizations were created using Microsft Excel PivotCharts.
 ##**Limitations.**
 1. Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides were removed as they were not necessary for the business task.
 2.  117 records of data were removed because they had negative ride length. The bikes were taken out of the docks for quality checks.
+
+
+
    
 
 
