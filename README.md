@@ -55,8 +55,7 @@ Visulaizations were created using Microsft Excel PivotCharts.
 
 
 
-
-![Average ride length for users by day of the week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/9de41c88-d26d-4bce-acd8-6a74751f6583) *Average ride length for users by day of the week.*
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/4db18987-ca4d-4ab4-840e-a43959da9019) *Average ride length for users by day of the week.*
 
 
 
@@ -65,7 +64,7 @@ Visulaizations were created using Microsft Excel PivotCharts.
 
 
 
-  ## Recommendations.
+## Recommendations.
 1. Survey to be conducted targeting all Cyclistic customers, to understand their rates satisfactions. This will be used to see the areas that need improvement to maintain the current customers and also convert casual riders to annual members.
 2. Targeted marketing via digital media should be done to casual riders. Casual riders are using the bikes for a lengthy period and marketing to this specific group, will have a higher chance of converting them to annual members.
 3. There should be a membership subscription offer to casual riders who are interested in becoming annual members to attract more casual riders to get the annual membership.
