@@ -51,7 +51,7 @@ Trends of data show relationship between weekends and the bike usage time. Both 
 Visulaizations were created using Microsft Excel PivotCharts.
 
 
-![Number of rides for users by day of the week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/de5397df-7353-4c75-a17b-bf9a696b9516) *Number of rides for users by day of the week.*
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/8de8d977-e431-449a-9b4a-c55d969df776) *Number of rides for users by day of the week.*
 
 
 
