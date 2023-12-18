@@ -15,15 +15,15 @@ Key stakeholders are Cyclistic company executive team.
 
 ## Source of Data.
 
-Cyclistic Bike Share Q1 2020 data was made available by Motivate International Inc. The data is located in Microsoft Excel.
+Cyclistic Bike Share Q1 2020 data was made available by Motivate International Inc. The data is saved as a Microsoft Excel workbook
 
 ## Data Cleaning And Manipulation Documentation.
 
-- Data cleaning was done in Microsoft Excel. 
-- Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides were removed.
-- 117 records of data were removed because they had negative ride length.
-- 3 rows were added to help solve the business task i.e ‘ride_length’, ‘member_casual’, ‘day_of_the_week’.
-- Columns were adjusted to appropriate format depending on the type of data.
+Data cleaning was done in Microsoft Excel. 
+- I deleted Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides.
+- I removed 117 records of data because they had negative ride length.
+- I added 3 rows to help solve the business task i.e ‘ride_length’, ‘member_casual’, ‘day_of_the_week’.
+- I adjusted Columns to appropriate format depending on the type of data.
 
 ## Summary of Analysis.
 
@@ -50,21 +50,18 @@ Trends of data show relationship between weekends and the bike usage time. Both 
 ## Visualizations of Key Findings.
 Visulaizations were created using Microsft Excel PivotCharts.
 
-1.
-![number_of_rides_for_users_by_day_of_the_week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/fa46f172-4187-4ac7-9270-02ba361a236a)
-*Number of rides for users by day of the week.*
+
+![Number of rides for users by day of the week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/de5397df-7353-4c75-a17b-bf9a696b9516) *Number of rides for users by day of the week.*
 
 
-2.
-![Average_ride_length_for_users_by_day_of_the_week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/be5c4a97-3fc3-422d-a45f-998e30809e12)
-*Average ride length for users by day of the week.*
 
 
-4.
-![average_ride_length_for_users_2020_Q1](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/0606120b-3127-4300-9623-89f980ab097c)
+![Average ride length for users by day of the week](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/9de41c88-d26d-4bce-acd8-6a74751f6583) *Average ride length for users by day of the week.*
 
-*Average ride length for users.*
 
+
+
+![Average ride length for member and casual riders](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/e2f5cc9b-2559-4b37-96df-87a638b2a558) *Average ride length for users.*
 
 
 
@@ -74,8 +71,8 @@ Visulaizations were created using Microsft Excel PivotCharts.
 3. There should be a membership subscription offer to casual riders who are interested in becoming annual members to attract more casual riders to get the annual membership.
 
 ## Limitations.
-1. Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides were removed as they were not necessary for the business task.
-2.  117 records of data were removed because they had negative ride length. The bikes were taken out of the docks for quality checks.
+1. I removed Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides beacause they were not necessary for the business task.
+2. I removed 117 records of data because they had negative ride length. The bikes were taken out of the docks for quality checks resulting to negative ride length. 
 
 
 
