@@ -64,7 +64,7 @@ Visulaizations were created using Microsft Excel PivotCharts.
 
 
 ## Recommendations.
-1. Survey to be conducted targeting all Cyclistic customers, to understand their rates satisfactions. This will be used to see the areas that need improvement to maintain the current customers and also convert casual riders to annual members.
+1. Survey to be conducted targeting all Cyclistic customers, to understand their rates of satisfaction. This will be used to see the areas that need improvement to maintain the current customers and also convert casual riders to annual members.
 2. Targeted marketing via digital media should be done to casual riders. Casual riders are using the bikes for a lengthy period and marketing to this specific group, will have a higher chance of converting them to annual members.
 3. There should be a membership subscription offer to casual riders who are interested in becoming annual members to attract more casual riders to get the annual membership.
 
