@@ -59,8 +59,7 @@ Visulaizations were created using Microsft Excel PivotCharts.
 
 
 
-
-![Average ride length for member and casual riders](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/e2f5cc9b-2559-4b37-96df-87a638b2a558) *Average ride length for users.*
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/590d7b97-37ed-406b-a333-6b3e2fa30a54) *Average ride length for users.*
 
 
 
