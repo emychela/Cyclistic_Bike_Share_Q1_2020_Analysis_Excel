@@ -17,12 +17,12 @@ Key stakeholders are Cyclistic company executive team.
 
 Cyclistic Bike Share Q1 2020 data was made available by Motivate International Inc. The data is saved as a Microsoft Excel workbook
 
-## Data Cleaning And Manipulation Documentation.
+## Data Cleaning and Manipulation Documentation.
 
 Data cleaning was done in Microsoft Excel. 
 - I deleted Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides.
 - I removed 117 records of data because they had negative ride length.
-- I added 3 rows to help solve the business task i.e ‘ride_length’, ‘member_casual’, ‘day_of_the_week’.
+- I added three rows to help solve the business task i.e ‘ride_length’, ‘member_casual’, ‘day_of_the_week’.
 - I adjusted Columns to appropriate format depending on the type of data.
 
 ## Summary of Analysis.
@@ -48,7 +48,7 @@ Data cleaning was done in Microsoft Excel.
 Trends of data show relationship between weekends and the bike usage time. Both Casual and member riders used bikes for a longer time during the weekends.
 
 ## Visualizations of Key Findings.
-Visulaizations were created using Microsft Excel PivotCharts.
+Visualizations were created using Microsoft Excel PivotCharts.
 
 
 ![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/8de8d977-e431-449a-9b4a-c55d969df776) *Number of rides for users by day of the week.*
@@ -64,12 +64,12 @@ Visulaizations were created using Microsft Excel PivotCharts.
 
 
 ## Recommendations.
-1. Survey to be conducted targeting all Cyclistic customers, to understand their rates of satisfaction. This will be used to see the areas that need improvement to maintain the current customers and also convert casual riders to annual members.
+1. A survey to be conducted targeting all Cyclistic customers, to understand their rates of satisfaction. This will be used to see the areas that need improvement to maintain the current customers and convert casual riders to annual members.
 2. Targeted marketing via digital media should be done to casual riders. Casual riders are using the bikes for a lengthy period and marketing to this specific group, will have a higher chance of converting them to annual members.
 3. There should be a membership subscription offer to casual riders who are interested in becoming annual members to attract more casual riders to get the annual membership.
 
 ## Limitations.
-1. I removed Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides beacause they were not necessary for the business task.
+1. I removed Columns representing the ‘starting latitude’, ‘ending latitude’ ‘starting longitude’ ‘ending longitude’ of rides because they were not necessary for the business task.
 2. I removed 117 records of data because they had negative ride length. The bikes were taken out of the docks for quality checks resulting to negative ride length. 
 
 
