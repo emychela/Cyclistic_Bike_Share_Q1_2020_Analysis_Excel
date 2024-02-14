@@ -50,16 +50,20 @@ Trends of data show relationship between weekends and the bike usage time. Both 
 ## Visualizations of Key Findings.
 Visualizations were created using Microsoft Excel PivotCharts.
 
+1. *Number of rides for users by day of the week.*
 
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/8de8d977-e431-449a-9b4a-c55d969df776) *Number of rides for users by day of the week.*
-
-
-
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/4db18987-ca4d-4ab4-840e-a43959da9019) *Average ride length for users by day of the week.*
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/8de8d977-e431-449a-9b4a-c55d969df776)
 
 
+2. *Average ride length for users by day of the week.*
 
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/590d7b97-37ed-406b-a333-6b3e2fa30a54) *Average ride length for users.*
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/4db18987-ca4d-4ab4-840e-a43959da9019)
+
+
+
+3. *Average ride length for users.*
+
+![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/590d7b97-37ed-406b-a333-6b3e2fa30a54) 
 
 
 
