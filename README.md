@@ -52,18 +52,26 @@ Visualizations were created using Microsoft Excel PivotCharts.
 
 1. *Number of rides for users by day of the week.*
 
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/8de8d977-e431-449a-9b4a-c55d969df776)
+![Number of rides fpr users by day of week](https://github.com/emychela/Cyclistic_Bike_Share_Q1_2020_Analysis_Excel/assets/150371945/d95600d0-c4ad-4e78-af99-ca990ee28ea7)
+
+
+
 
 
 2. *Average ride length for users by day of the week.*
 
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/4db18987-ca4d-4ab4-840e-a43959da9019)
+![Average ride length for users by day of week](https://github.com/emychela/Cyclistic_Bike_Share_Q1_2020_Analysis_Excel/assets/150371945/725af1f3-11d2-4ea6-b5f7-c43554f7e44e)
+
+
 
 
 
 3. *Average ride length for users.*
 
-![image](https://github.com/emychela/Cyclistic_Bike_Share_Analysis/assets/150371945/590d7b97-37ed-406b-a333-6b3e2fa30a54) 
+![Average ride length for users](https://github.com/emychela/Cyclistic_Bike_Share_Q1_2020_Analysis_Excel/assets/150371945/a419c1a4-74b9-4efb-aef4-236d61d626ec)
+
+
+
 
 
 
